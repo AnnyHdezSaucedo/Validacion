@@ -1,6 +1,3 @@
-require 'simplecov'
-SimpleCov.start
-
 # requerid
 require 'minitest/autorun'
 require_relative 'etl'
