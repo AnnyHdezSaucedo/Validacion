@@ -1,5 +1,5 @@
 # requerid
-require_relative 'etl'
+require_relative 'etl.rb'
 
 class TransformTest < MiniTest::Unit::TestCase
 
