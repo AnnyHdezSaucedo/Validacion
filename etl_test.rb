@@ -1,6 +1,7 @@
 require 'simplecov'
 SimpleCov.start
 
+# requerido
 require 'minitest/autorun'
 require_relative 'etl'
 
