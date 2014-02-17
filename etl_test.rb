@@ -1,5 +1,4 @@
 # requerid
-require 'minitest/autorun'
 require_relative 'etl'
 
 class TransformTest < MiniTest::Unit::TestCase
